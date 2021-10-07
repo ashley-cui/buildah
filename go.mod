@@ -6,9 +6,9 @@ require (
 	github.com/containerd/containerd v1.5.5
 	github.com/containernetworking/cni v0.8.1
 	github.com/containers/common v0.46.0
-	github.com/containers/image/v5 v5.16.0
+	github.com/containers/image/v5 v5.16.1
 	github.com/containers/ocicrypt v1.1.2
-	github.com/containers/storage v1.36.0
+	github.com/containers/storage v1.37.0
 	github.com/docker/distribution v2.7.1+incompatible
 	github.com/docker/docker v20.10.8+incompatible
 	github.com/docker/go-units v0.4.0
@@ -35,7 +35,6 @@ require (
 	github.com/spf13/pflag v1.0.5
 	github.com/stretchr/testify v1.7.0
 	github.com/syndtr/gocapability v0.0.0-20200815063812-42c35b437635
-	github.com/vbauerster/mpb/v7 v7.1.5 // indirect
 	go.etcd.io/bbolt v1.3.6
 	golang.org/x/crypto v0.0.0-20210711020723-a769d52b0f97
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
