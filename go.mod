@@ -4,7 +4,7 @@ go 1.13
 
 require (
 	github.com/containerd/containerd v1.5.7
-	github.com/containernetworking/cni v0.8.1
+	github.com/containernetworking/cni v1.1.0
 	github.com/containers/common v0.46.0
 	github.com/containers/image/v5 v5.16.1
 	github.com/containers/ocicrypt v1.1.2
@@ -20,7 +20,7 @@ require (
 	github.com/konsorten/go-windows-terminal-sequences v1.0.3 // indirect
 	github.com/mattn/go-shellwords v1.0.12
 	github.com/onsi/ginkgo v1.16.4
-	github.com/onsi/gomega v1.16.0
+	github.com/onsi/gomega v1.17.0
 	github.com/opencontainers/go-digest v1.0.0
 	github.com/opencontainers/image-spec v1.0.2-0.20210819154149-5ad6f50d6283
 	github.com/opencontainers/runc v1.0.2
