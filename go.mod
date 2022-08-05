@@ -3,8 +3,8 @@ module github.com/containers/buildah
 go 1.16
 
 require (
-	github.com/containerd/containerd v1.6.4
-	github.com/containernetworking/cni v1.1.0
+	github.com/containerd/containerd v1.6.7
+	github.com/containernetworking/cni v1.1.1
 	github.com/containers/common v0.48.1-0.20220519181648-280c6f69fa82
 	github.com/containers/image/v5 v5.21.2-0.20220520105616-e594853d6471
 	github.com/containers/ocicrypt v1.1.4-0.20220428134531-566b808bdf6f
